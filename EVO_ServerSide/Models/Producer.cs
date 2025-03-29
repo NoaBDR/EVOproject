@@ -49,7 +49,7 @@ namespace EVO_ServerSide.Models
         public DateTime Registration_date { get => registration_date; set => registration_date = value; }
         public DateOnly Birth_date { get => birth_date; set => birth_date = value; }
         public string City { get => city; set => city = value; }
-
+//  njtn jk
         public int InsertNewUser()
         {
             DBservices dbs = new DBservices();
