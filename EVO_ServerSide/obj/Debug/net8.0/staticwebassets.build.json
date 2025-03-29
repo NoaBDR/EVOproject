@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "8kQJWbOHzqU9wufWFlo5Mcc0crhTcI56Wxa9VW8XN64=",
+  "Source": "EVO_ServerSide",
+  "BasePath": "_content/EVO_ServerSide",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rozen\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\PART 2\\EVO_ServerSide\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{469B76A3-6D67-4DDB-BCC3-395909CBEA7B}|EVO_ServerSide.csproj|c:\\users\\rozen\\onedrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\part 2\\evo_serverside\\dal\\dbservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{469B76A3-6D67-4DDB-BCC3-395909CBEA7B}|EVO_ServerSide.csproj|solutionrelative:dal\\dbservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469B76A3-6D67-4DDB-BCC3-395909CBEA7B}|EVO_ServerSide.csproj|c:\\users\\rozen\\onedrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\part 2\\evo_serverside\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{469B76A3-6D67-4DDB-BCC3-395909CBEA7B}|EVO_ServerSide.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469B76A3-6D67-4DDB-BCC3-395909CBEA7B}|EVO_ServerSide.csproj|c:\\users\\rozen\\onedrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\part 2\\evo_serverside\\controllers\\producerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{469B76A3-6D67-4DDB-BCC3-395909CBEA7B}|EVO_ServerSide.csproj|solutionrelative:controllers\\producerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469B76A3-6D67-4DDB-BCC3-395909CBEA7B}|EVO_ServerSide.csproj|c:\\users\\rozen\\onedrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\part 2\\evo_serverside\\models\\producer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{469B76A3-6D67-4DDB-BCC3-395909CBEA7B}|EVO_ServerSide.csproj|solutionrelative:models\\producer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469B76A3-6D67-4DDB-BCC3-395909CBEA7B}|EVO_ServerSide.csproj|c:\\users\\rozen\\onedrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\part 2\\evo_serverside\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{469B76A3-6D67-4DDB-BCC3-395909CBEA7B}|EVO_ServerSide.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DBservices.cs",
+              "DocumentMoniker": "C:\\Users\\rozen\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\PART 2\\EVO_ServerSide\\DAL\\DBservices.cs",
+              "RelativeDocumentMoniker": "DAL\\DBservices.cs",
+              "ToolTip": "C:\\Users\\rozen\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\PART 2\\EVO_ServerSide\\DAL\\DBservices.cs",
+              "RelativeToolTip": "DAL\\DBservices.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAD4v2gAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T17:29:03.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Producer.cs",
+              "DocumentMoniker": "C:\\Users\\rozen\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\PART 2\\EVO_ServerSide\\Models\\Producer.cs",
+              "RelativeDocumentMoniker": "Models\\Producer.cs",
+              "ToolTip": "C:\\Users\\rozen\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\PART 2\\EVO_ServerSide\\Models\\Producer.cs",
+              "RelativeToolTip": "Models\\Producer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T08:22:09.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProducersController.cs",
+              "DocumentMoniker": "C:\\Users\\rozen\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\PART 2\\EVO_ServerSide\\Controllers\\ProducersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProducersController.cs",
+              "ToolTip": "C:\\Users\\rozen\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\PART 2\\EVO_ServerSide\\Controllers\\ProducersController.cs",
+              "RelativeToolTip": "Controllers\\ProducersController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T08:19:56.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rozen\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\PART 2\\EVO_ServerSide\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\rozen\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\PART 2\\EVO_ServerSide\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-27T15:59:33.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\rozen\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\PART 2\\EVO_ServerSide\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\rozen\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\\u05E8\u05D5\u05E4\u05D9\u05DF\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\PART 2\\EVO_ServerSide\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-25T22:38:13.11Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 334,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
